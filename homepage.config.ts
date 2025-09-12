@@ -5,20 +5,20 @@ import type { NitroConfig } from 'nitropack'
 const author = {
 	name: 'FuHeng',
 	avatar: 'https://wsrv.nl/?url=github.com/L33Z22L11.png',
-	email: 'hi@zhilu.cyou',
-	homepage: 'https://www.zhilu.cyou/',
+	email: '2827162018@qq.com',
+	homepage: 'https://fuheng.vip/',
 }
 
 const homepageConfig = {
 	title: 'FuHeng',
-	subtitle: 'FuHeng至麓不知路，支炉制露不止漉',
-	description: 'FuHeng是一名开源爱好者，这是FuHeng的个人主页。他有一个博客「FuHeng摸鱼处」，记录了他在生活和技术学习中的点滴经历，充满启发与思考。他的个人主页和博客界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
+	subtitle: '我永远与宇宙的无限能量相连。',
+	description: 'FuHeng是一位网络爱好者，兴趣较为广泛，比如读书、摄影、编程、艺术、电影等等。',
 	author,
 	language: 'zh-CN',
 	timezone: 'Asia/Shanghai',
 	favicon: '/icon.png',
 	url: 'https://fuheng.vip/',
-	blogAtom: 'https://blog.fuheng.vip/atom.xml',
+	blogAtom: 'https://blog.zhilu.site/atom.xml',
 }
 
 // https://nitro.build/config#routerules

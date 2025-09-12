@@ -23,28 +23,28 @@ const appConfig = useAppConfig()
 		<div>
 			<ZButton
 				icon="ph:files-duotone"
-				to="https://blog.zhilu.cyou/"
+				to="https://blog.fuheng.vip"
 				text="博客"
 				primary
 			/>
 			<ZButton
 				icon="ph:github-logo-duotone"
-				to="https://github.com/L33Z22L11"
+				to="https://github.com/100759"
 				text="GitHub"
 			/>
 		</div>
 	</ZField>
 	<ZField label="介绍">
 		<p>
-			<ZLink to="https://github.com/xiyou-linuxer">西邮 Linux 兴趣小组</ZLink>
-			成员，Windows 11 和 Arch Linux 用户。
+			<ZLink to="https://github.com/100759">恆</ZLink>
+			一名不知名的网络爱好者。
 		</p>
 	</ZField>
 	<ZField label="近期活动">
 		<p>
-			2024 年 7 月完善
-			<ZLink to="https://wiki.cooo.site/">西邮Wiki</ZLink>，8 月使用 Nuxt Content 重构了
-			<ZLink to="https://blog.zhilu.cyou/">个人博客</ZLink>，2025 年 3 月重构了西邮 Linux 兴趣小组博客后端，近期正在寻找前端秋招。
+			目前正常创作
+			<ZLink to="https://wiki.08.ac.con">H Wiki</ZLink>，
+			<ZLink to="https://08.ac.cn">个人博客</ZLink>，正常完善中
 		</p>
 	</ZField>
 	<ZField label="关于主页">
@@ -59,7 +59,7 @@ const appConfig = useAppConfig()
 			</ZBadge>等众多朋友为个人主页提供帮助。
 			<br>
 			主页开源在
-			<ZLink to="https://github.com/L33Z22L11/homepage-v5" icon="ph:github-logo-duotone">L33Z22L11/homepage-v5</ZLink>
+			<ZLink to="https://github.com/100759" icon="ph:github-logo-duotone">L33Z22L11/homepage-v5</ZLink>
 			上。
 		</p>
 		<p>
