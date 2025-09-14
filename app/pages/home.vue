@@ -47,26 +47,7 @@ const appConfig = useAppConfig()
 			<ZLink to="https://08.ac.cn">个人博客</ZLink>，正常完善中
 		</p>
 	</ZField>
-	<ZField label="关于主页">
-		<p>
-			自2024年6月1日开始重构，目前缓慢修缮中。
-		</p>
-		<p>
-			感谢<ZBadge link="https://github.com/KazariEX">
-				KazariEX
-			</ZBadge><ZBadge link="https://github.com/isYangs">
-				isYangs
-			</ZBadge>等众多朋友为个人主页提供帮助。
-			<br>
-			主页开源在
-			<ZLink to="https://github.com/100759" icon="ph:github-logo-duotone">L33Z22L11/homepage-v5</ZLink>
-			上。
-		</p>
-		<p>
-			欢迎使用、参考样式：<br>
-			<ZBadge v-for="item in appConfig.fork" :key="item.link" v-bind="item" />
-		</p>
-	</ZField>
+	
 </div>
 </template>
 
