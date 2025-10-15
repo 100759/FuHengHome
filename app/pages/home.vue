@@ -35,9 +35,10 @@ const appConfig = useAppConfig()
 		</div>
 	</ZField>
 	<ZField label="介绍">
-		<p>
-			<ZLink to="https://wiki.fuheng.vip">WiKi-FuHeng</ZLink>
-			个人WiKi知识文档
+		   <p>
+			   <ZLink to="https://wiki.fuheng.vip">WiKi-FuHeng</ZLink>
+			   个人WiKi知识文档
+		   </p>
 	</ZField>
 	<ZField label="近期活动">
 		<p>
@@ -47,7 +48,7 @@ const appConfig = useAppConfig()
 		</p>
 	</ZField>
 	<ZField label="关于主页">
-	
+
 		<p>
 			感谢<ZBadge link="https://github.com/KazariEX">
 				KazariEX
