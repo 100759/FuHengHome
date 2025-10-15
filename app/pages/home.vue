@@ -36,21 +36,18 @@ const appConfig = useAppConfig()
 	</ZField>
 	<ZField label="介绍">
 		<p>
-			<ZLink to="https://github.com/xiyou-linuxer">西邮 Linux 兴趣小组</ZLink>
-			成员，Windows 11 和 Arch Linux 用户。
-		</p>
+			<ZLink to="https://wiki.fuheng.vip">WiKi-FuHeng</ZLink>
+			个人WiKi知识文档
 	</ZField>
 	<ZField label="近期活动">
 		<p>
-			2024 年 7 月完善
-			<ZLink to="https://wiki.cooo.site/">西邮Wiki</ZLink>，8 月使用 Nuxt Content 重构了
-			<ZLink to="https://blog.zhilu.site/">个人博客</ZLink>，2025 年 3 月重构了西邮 Linux 兴趣小组博客后端，近期正在寻找前端秋招。
+			正在完善
+			<ZLink to="https://wiki.fuheng.vip">WiKi-FuHeng</ZLink>，博客也在紧跟更新着
+			<ZLink to="https://blog.fuheng.vip/">个人博客</ZLink>，正在建设。
 		</p>
 	</ZField>
 	<ZField label="关于主页">
-		<p>
-			自2024年6月1日开始重构，目前缓慢修缮中。
-		</p>
+	
 		<p>
 			感谢<ZBadge link="https://github.com/KazariEX">
 				KazariEX
