@@ -3,21 +3,21 @@
 import type { NitroConfig } from 'nitropack'
 
 const author = {
-	name: '纸鹿本鹿',
+	name: 'FuHeng',
 	avatar: 'https://wsrv.nl/?url=github.com/L33Z22L11.png',
-	email: 'hi@zhilu.cyou',
-	homepage: 'https://www.zhilu.site/',
+	email: '2827162018@qq.com',
+	homepage: 'https://fuheng.vip',
 }
 
 const homepageConfig = {
-	title: '纸鹿 (@L33Z22L11)',
-	subtitle: '纸鹿至麓不知路，支炉制露不止漉',
-	description: '纸鹿（也称作纸鹿本鹿、Zhilu、L33Z22L11）是一名开源爱好者，这是纸鹿的个人主页。他有一个博客「纸鹿摸鱼处」，记录了他在生活和技术学习中的点滴经历，充满启发与思考。他的个人主页和博客界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
+	title: '恆',
+	subtitle: '花有重开日，人无再少年',
+	description: '这里是我的个人成长自留地，记录从职场到生活的思考碎片，分享突破困境的实践经验。不追求完美答案，只愿用真实经历，陪你一起在探索中慢慢变好。',
 	author,
 	language: 'zh-CN',
 	timezone: 'Asia/Shanghai',
 	favicon: '/icon.png',
-	url: 'https://www.zhilu.site/',
+	url: 'https://fuheng.vip',
 	blogAtom: 'https://blog.zhilu.site/atom.xml',
 }
 

@@ -23,14 +23,14 @@ const appConfig = useAppConfig()
 		<div>
 			<ZButton
 				icon="ri:file-list-3-line"
-				to="https://blog.zhilu.site/"
+				to="https://blog.fuheng.vip"
 				text="博客"
 				primary
 			/>
 			<ZButton
 				icon="ri:github-line"
-				to="https://github.com/L33Z22L11"
-				text="GitHub"
+				to="https://wiki.fuheng.vip"
+				text="Wiki"
 			/>
 		</div>
 	</ZField>
